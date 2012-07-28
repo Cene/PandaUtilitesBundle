@@ -1,7 +1,7 @@
 parameters:
-#    lilaconcepts_bestpractice.example.class: LilaConcepts\LilaConceptsBestPracticeBundle\Example
+#    cene_pandautilities.example.class: Cene\CenePandaUtilitiesBundle\Example
 
 services:
-#    lilaconcepts_bestpractice.example:
-#        class: %lilaconcepts_bestpractice.example.class%
+#    cene_pandautilities.example:
+#        class: %cene_pandautilities.example.class%
 #        arguments: [@service_id, "plain_value", %parameter%]
