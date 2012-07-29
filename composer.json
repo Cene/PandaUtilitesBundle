@@ -18,7 +18,7 @@
         "symfony/symfony": "2.*"
     },
     "autoload": {
-        "psr-0": { "Cene\\Bundle\\CenePandaUtilitiesBundle": "" }
+        "psr-0": { "Cene": "" }
     },
     "target-dir": "Cene/Bundle/CenePandaUtilitiesBundle"
 }
